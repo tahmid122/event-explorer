@@ -3,6 +3,8 @@
 **Event Explorer** is a dynamic event discovery platform that enables users to explore, discover, and engage with local events. From conferences and workshops to sports matches and art exhibitions, users can browse detailed event listings, view event-specific information, and share feedback or ratings based on their experiences.
 
 ---
+## 🚀 Live Link [Event Explorer](https://event-explorer-by-tahmid.netlify.app/)
+
 
 ## 🚀 Features
 
@@ -46,16 +48,17 @@
    ```bash
    npm install
    ```
-3. ***Set up Firebase***
+3. **Set up Firebase**
    
 - Create a project in Firebase Console
 - Enable Authentication and Firestore
 - Replace your Firebase config inside your project
 
-  4. ***Run the development server***
-     ```bash
-     npm run dev
-     ```
+4. **Run the development server**
+
+ ```bash
+ npm run dev
+  ```
 
 ## 🧪 Scripts
 
