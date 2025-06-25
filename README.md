@@ -1,49 +1,74 @@
-# 🎉 Event Explorer 🎉
+# 🎉 Event Explorer
 
-This is an event explorer website. User can discover, explore, and get details about upcoming local events such as conferences, workshops, sports events, art exhibitions, and more. Users can log in, browse events, view detailed info, and leave feedback or ratings for events they attend
-
----
-
-## 🔑 Purpose
-
-The main purpose of this project is to practice everything what I learned from this course till now. This revision will help me to become a good developer. I completed this project with my own ability without help of others/AI. I learned some new thing while I am doing this project.
+**Event Explorer** is a dynamic event discovery platform that enables users to explore, discover, and engage with local events. From conferences and workshops to sports matches and art exhibitions, users can browse detailed event listings, view event-specific information, and share feedback or ratings based on their experiences.
 
 ---
 
-## 🚀 Live Demo
+## 🚀 Features
 
-[Netlify Live Link](https://m9-assignment09-event-explorer.netlify.app/)
-
-[Firebase Live Link](https://m9-assignment09-auth.web.app/)
+- 🔐 User authentication (Firebase)
+- 🔎 Browse and filter local events
+- 📝 View detailed event pages
+- 💬 Leave feedback and ratings for attended events
+- 📱 Responsive design for mobile and desktop
+- ✨ Animated UI with AOS and Swiper
+- 🔥 Toast notifications for user interactions
 
 ---
 
-## 📢 Key Features
+## 🛠️ Tech Stack
 
-- **Authentication**
-- **Login and Registration Functionality**
-  - _Email,Password Login and registration_
-  - _Google Login and registration_
-- **Private Routes**
-- **Dynamic Title**
-- **Dynamic Routing**
-- **Awesome Design**
-- **Beautiful Animation**
-- **Error Handling**
+| Technology     | Version     |
+|----------------|-------------|
+| React          | ^19.0.0     |
+| React DOM      | ^19.0.0     |
+| React Router   | ^7.5.3      |
+| Firebase       | ^11.6.1     |
+| Tailwind CSS   | ^4.1.5      |
+| DaisyUI        | ^5.0.35     |
+| Vite           | ^6.3.1      |
+| AOS (Animate on Scroll) | ^2.3.4 |
+| Swiper         | ^11.2.6     |
+| React Icons    | ^5.5.0      |
+| React Hot Toast| ^2.5.2      |
+| SweetAlert2    | ^11.21.0    |
 
-## 🛠️ Packages
+---
 
-- **[React Router](https://reactrouter.com/)**
-- **[React Icons](https://react-icons.github.io/react-icons/)**
-- **[Swiper.js](https://swiperjs.com/)**
-- **[AOS](https://michalsnik.github.io/aos/)**
-- **[Firebase](https://firebase.google.com/)**
-- **[ldrs](https://uiball.com/ldrs/)**
-- **[sweetalert2](https://sweetalert2.github.io/)**
-- **[React hot toast](https://react-hot-toast.com/)**
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/event-explorer.git
+   cd event-explorer
+   ```
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+3. ***Set up Firebase***
+   
+- Create a project in Firebase Console
+- Enable Authentication and Firestore
+- Replace your Firebase config inside your project
+
+  4. ***Run the development server***
+     ```bash
+     npm run dev
+     ```
+
+## 🧪 Scripts
+
+  | Script            | Description                   |
+| ----------------- | ----------------------------- |
+| `npm run dev`     | Starts the development server |
+| `npm run build`   | Builds the app for production |
+| `npm run preview` | Previews the production build |
+| `npm run lint`    | Lints the code using ESLint   |
 
 ## 📝Author
 
 - Name: **Tahmid Alam**
 - GitHub: [@tahmid122](www.github.com/tahmid122)
 - Email: <mdtahmidalam122@gmail.com>
+
