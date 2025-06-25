@@ -3,7 +3,7 @@
 **Event Explorer** is a dynamic event discovery platform that enables users to explore, discover, and engage with local events. From conferences and workshops to sports matches and art exhibitions, users can browse detailed event listings, view event-specific information, and share feedback or ratings based on their experiences.
 
 ---
-## 🚀 Live Link [Event Explorer](https://event-explorer-by-tahmid.netlify.app/)
+[**Event Explorer Live Link**](https://event-explorer-by-tahmid.netlify.app/)
 
 
 ## 🚀 Features
