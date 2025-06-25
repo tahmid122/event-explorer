@@ -1,0 +1,18 @@
+[
+  {
+    "id": "event_001",
+    "name": "Tech Innovators Conference 2025",
+    "thumbnail": "https://i.ibb.co.com/vMZHf49/photo-1582192730841-2a682d7375f9-q-80-w-1974-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+    "date": "2025-05-15",
+    "rating": 4,
+    "description": "This Conference was really awesome. I loved it very much. From this Conference I learned many things about how to convert ideas into business. Guests are well known and successful in their own career. Everyone should attend to this type of event. It will help them to make right decision."
+  },
+  {
+    "id": "event_005",
+    "name": "Dhaka Marathon 2025",
+    "thumbnail": "https://i.ibb.co.com/hxknTm91/photo-1524646349956-1590eacfa324-q-80-w-2070-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+    "date": "2025-11-20",
+    "rating": 4,
+    "description": "I recently participated in Dhaka Marathon 2025, and it was a challenging yet rewarding experience. The route was scenic, the crowd support was amazing, and the event was well-organized. Finishing the race gave me a great sense of accomplishment and taught me the value of endurance and mental strength. I’d love to join more marathons in the future!"
+  }
+]

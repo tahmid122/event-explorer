@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Art & Culture",
+    "icon": "🎨",
+    "slug": "art-culture",
+    "description": "Explore exhibitions, museum tours, and local art shows."
+  },
+  {
+    "id": 2,
+    "name": "Music",
+    "icon": "🎶",
+    "slug": "music",
+    "description": "Live concerts, open mic nights, and music festivals."
+  },
+  {
+    "id": 3,
+    "name": "Workshops",
+    "icon": "🧪",
+    "slug": "workshops",
+    "description": "Hands-on learning sessions and skill development classes."
+  },
+  {
+    "id": 4,
+    "name": "Conferences",
+    "icon": "💼",
+    "slug": "conferences",
+    "description": "Professional gatherings, tech talks, and panel discussions."
+  },
+  {
+    "id": 5,
+    "name": "Sports",
+    "icon": "🏀",
+    "slug": "sports",
+    "description": "Local games, tournaments, and fitness events."
+  },
+  {
+    "id": 6,
+    "name": "Film Promotion",
+    "icon": "🎬",
+    "slug": "theater-film",
+    "description": "Stage plays, indie film screenings, and cinema nights."
+  },
+  {
+    "id": 7,
+    "name": "Networking",
+    "icon": "🤝",
+    "slug": "networking",
+    "description": "Meetups and events to connect with like-minded people."
+  }
+]

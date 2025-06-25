@@ -1,0 +1,80 @@
+[
+  {
+    "id": "event_001",
+    "name": "Tech Innovators Conference",
+    "thumbnail": "https://i.ibb.co.com/vMZHf49/photo-1582192730841-2a682d7375f9-q-80-w-1974-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+    "category": "Technology",
+    "date": "2025-05-15",
+    "location": "D.C Center, Dhaka",
+    "entry_fee": 500,
+    "organizer": "Bangladesh Tech Society",
+    "rating": 4.8,
+    "feedback_count": 120,
+    "description": "Join leading tech experts, developers, and entrepreneurs at the Tech Innovators Conference 2025. This event brings together thought leaders from AI, blockchain, cybersecurity, and software development for a full day of interactive sessions, panel discussions, and networking opportunities. Keynote speeches from Google, Microsoft, and regional startups will inspire future innovation. Attendees can explore tech exhibitions, startup pitch competitions, and hands-on coding workshops. Whether you're a seasoned professional or a tech enthusiast, this event offers something for everyone passionate about technology and innovation."
+  },
+  {
+    "id": "event_002",
+    "name": "Dhaka Art & Culture Exhibition",
+    "thumbnail": "https://i.ibb.co.com/JbYcKD9/premium-photo-1704984294816-8a0ec0fbb09b-q-80-w-2070-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+    "category": "Art",
+    "date": "2025-06-10",
+    "location": "National Art Gallery, Dhaka",
+    "entry_fee": 200,
+    "organizer": "Dhaka Art Foundation",
+    "rating": 4.5,
+    "feedback_count": 87,
+    "description": "Immerse yourself in the creativity of Bangladesh’s top contemporary artists. The Dhaka Art & Culture Exhibition will feature painting, sculpture, digital art, and performance pieces that highlight both modern techniques and traditional roots. Alongside curated galleries, visitors can attend artist talks, live demonstrations, and cultural performances. This is a great opportunity for art lovers, students, and collectors to engage with the local art community and support emerging talents in a vibrant, interactive environment."
+  },
+  {
+    "id": "event_003",
+    "name": "Startup Workshop 101",
+    "thumbnail": "https://i.ibb.co.com/8Dw00WW2/1-AHSHBKj-Tf4ur74l0-Dek-Sg.jpg",
+    "category": "Workshop",
+    "date": "2025-07-05",
+    "location": "BRAC Center, Dhaka",
+    "entry_fee": 150,
+    "organizer": "Startup Bangladesh",
+    "rating": 4.7,
+    "feedback_count": 65,
+    "description": "Startup Workshop 101 is tailored for early-stage entrepreneurs who want to build strong foundations for their business ideas. Topics include validating your concept, creating a business model canvas, fundraising strategies, and digital marketing essentials. The workshop features experienced mentors from the local startup scene and includes real-time pitch feedback and case studies. Participants will leave with actionable strategies and a clear roadmap for launching or growing their ventures."
+  },
+  {
+    "id": "event_004",
+    "name": "Youth Leadership Summit",
+    "thumbnail": "https://i.ibb.co.com/LXmtcRgc/ru.jpg",
+    "category": "Conference",
+    "date": "2025-08-01",
+    "location": "BIC Center, Dhaka",
+    "entry_fee": 300,
+    "organizer": "National Youth Council",
+    "rating": 4.9,
+    "feedback_count": 98,
+    "description": "The Youth Leadership Summit brings together young change-makers, students, and social activists for a day of inspiration and action. The event features motivational speakers, leadership workshops, and breakout sessions focused on career planning, social innovation, and public speaking. Participants will have the chance to network with NGOs, academic leaders, and employers. It’s a must-attend for any youth looking to develop leadership skills and make a positive impact in their communities."
+  },
+  {
+    "id": "event_005",
+    "name": "Dhaka Marathon 2025",
+    "thumbnail": "https://i.ibb.co.com/hxknTm91/photo-1524646349956-1590eacfa324-q-80-w-2070-auto-format-fit-crop-ixlib-rb-4-0.jpg",
+    "category": "Sports",
+    "date": "2025-11-20",
+    "location": "Hatirjheel, Dhaka",
+    "entry_fee": 100,
+    "organizer": "Bangladesh Athletics Federation",
+    "rating": 4.6,
+    "feedback_count": 75,
+    "description": "The Dhaka Marathon 2025 is more than just a race — it's a celebration of health, determination, and community. Participants from across the country will run through scenic routes around Hatirjheel, with race categories including 5K, 10K, and a full marathon. There will be water stations, cheering squads, music zones, and post-run refreshments. All finishers receive medals, and top runners will earn cash prizes. Join in for fitness, fun, and festivity in the heart of Dhaka!"
+  },
+  {
+    "id": "event_006",
+    "name": "Photography Masterclass with Fahim Ahmed",
+    "thumbnail": "https://i.ibb.co.com/bRbJ6BG0/https-www-steveparish-natureconnect-com-au-2025-masterclass-covers-002.jpg",
+    "category": "Workshop",
+    "date": "2025-09-12",
+    "location": "Dhaka Studio House, Gulshan",
+    "entry_fee": 350,
+    "organizer": "PhotoBangla Academy",
+    "rating": 4.85,
+    "feedback_count": 112,
+    "description": "Learn the art and science of photography from renowned visual artist Fahim Ahmed. This intensive masterclass covers portrait, landscape, and street photography techniques, camera settings, lighting, and post-processing with Adobe Lightroom. Participants are encouraged to bring their own cameras for hands-on practice. Whether you’re a beginner or an aspiring professional, this workshop will sharpen your skills and expand your creative vision."
+  }
+]

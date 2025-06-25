@@ -1,0 +1,61 @@
+[
+  {
+    "id": "org_001",
+    "name": "EDTech Hub",
+    "logo": "https://i.ibb.co.com/8gCkbgTL/Ed-Tech-Hub-Logo.png",
+    "description": "Promoting technological innovation and collaboration across Bangladesh.",
+    "total_events": 7,
+    "rating": 4.8,
+    "total_followers": 1540
+  },
+  {
+    "id": "org_002",
+    "name": "S.A Foundation",
+    "logo": "https://i.ibb.co.com/N6K044fK/434560179-752348890334526-465999653426874852-n.jpg",
+    "website": "https://dhakaartfoundation.com",
+    "description": "Supporting contemporary and traditional art through events and exhibitions.",
+    "total_events": 2,
+    "rating": 4.5,
+    "total_followers": 9700
+  },
+  {
+    "id": "org_003",
+    "name": "Startup Bangladesh",
+    "logo": "https://i.ibb.co.com/NdhHB5dz/download.png",
+    "website": "https://startupbd.gov.bd",
+    "description": "Empowering new entrepreneurs and accelerating the startup ecosystem.",
+    "total_events": 4,
+    "rating": 4.7,
+    "total_followers": 1810
+  },
+  {
+    "id": "org_004",
+    "name": "National.Y Council",
+    "logo": "https://i.ibb.co.com/XrSYnGPS/391674565-145615438637001-4091404435517847397-n.jpg",
+    "website": "https://nycb.gov.bd",
+    "description": "Fostering leadership and civic engagement among youth across Bangladesh.",
+    "total_events": 5,
+    "rating": 4.9,
+    "total_followers": 2040
+  },
+  {
+    "id": "org_005",
+    "name": "B.D.A Federation",
+    "logo": "https://i.ibb.co.com/qFD5B82d/306139197-511604794306047-7259849654677081467-n.jpg",
+    "website": "https://baf.org.bd",
+    "description": "Dedicated to organizing national and regional athletic events.",
+    "total_events": 1,
+    "rating": 4.6,
+    "total_followers": 8700
+  },
+  {
+    "id": "org_006",
+    "name": "Bangla Academy",
+    "logo": "https://i.ibb.co.com/twqs4gdJ/117314491-108562754294659-1063310148138511593-n.jpg",
+    "website": "https://banglaacademy.com",
+    "description": "Nurturing visual storytelling and photography talent in Bangladesh.",
+    "total_events": 12,
+    "rating": 4.85,
+    "total_followers": 1120
+  }
+]
